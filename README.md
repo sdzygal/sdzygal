@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sdzygal
-- 👀 I’m interested in Front-End Development 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate as a Trainee Developer
+- 👋 Hi, I’m Alexandra. Front-End Developer ⚛️
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking for collaboration 
 - 📫 How to reach me: sdzygal@gmail.com
 
 <!---
